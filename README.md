@@ -95,5 +95,3 @@ Tools & Platforms
 
 </div>  
 ---
-
-Make this sound more... Human
