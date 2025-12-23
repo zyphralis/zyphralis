@@ -11,7 +11,7 @@
 
 # 👋 Hi, I'm Matthew
 
-### *Beginner Developer | Learner | Builder*
+**Beginner Developer • Learning by Building • Curious by Nature**
 
 [![GitHub followers](https://img.shields.io/github/followers/zyphralis?style=social)](https://github.com/zyphralis)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zyphralis?style=social)](https://twitter.com/zyphralis)
@@ -22,19 +22,22 @@
 
 ## 🚀 About Me
 
-I'm a **beginner developer** on an exciting learning journey! I'm passionate about coding and love exploring new technologies. Every project is a chance to learn something new and grow my skills.
+I’m a **beginner developer** who recently started coding — and got hooked faster than expected.  
+I like learning by actually *building things*, breaking them, and fixing them again.
 
-- 🌱 **Learning:** Python, Discord bot development, and automation
-- 🔭 **Current Project:** Building **Dustin Bot** - an ambitious Discord bot to learn advanced concepts
-- 📚 **Status:** Beginner, but eager to improve every day
-- � **Goal:** Turn ideas into reality through code, one line at a time
-- ⚡ **Fun fact:** Started coding recently and already hooked!
+Right now, I’m focused on Python and Discord bots, but I’m always experimenting and trying new ideas. I don’t know everything (yet), but I’m consistent, curious, and improving every day.
+
+- 🌱 Currently learning **Python**, **automation**, and **Discord bot development**
+- 🔭 Working on **Dustin Bot**, a long-term project to push my skills further
+- 📚 Still a beginner — but taking learning seriously
+- 🎯 Goal: turn ideas into real, working projects
+- ⚡ Fun fact: I started coding “just to try it” and never stopped
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Language
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Libraries & Frameworks
@@ -43,7 +46,6 @@ I'm a **beginner developer** on an exciting learning journey! I'm passionate abo
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
@@ -62,9 +64,10 @@ I'm a **beginner developer** on an exciting learning journey! I'm passionate abo
 
 ---
 
-## 📫 Contact me!
+## 📫 Get in Touch
 
-**💬 Feel free to reach out! I'm most active on Discord.**
+I’m always open to talking about projects, learning together, or just chatting about tech.  
+Discord is where I’m most active.
 
 <div align="center">
 
@@ -93,7 +96,7 @@ I'm a **beginner developer** on an exciting learning journey! I'm passionate abo
 
 <div align="center">
 
-### 💼 Open for collaboration and interesting projects!
+### 💼 Open to collaboration, learning together, and interesting ideas
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zyphralis&color=blueviolet&style=flat-square)
 
